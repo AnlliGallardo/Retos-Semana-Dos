@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2? family=Playfair+Display:ital@1&display=swap');
+
+body{
+    font-family: 'Playfair Display', serif;
+    background-color: rgb(177, 177, 247);
+}
+
+img{
+    margin-left: 30px;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+
+h1{
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    color: darkblue;
+    
+}
+
+header{
+    margin-top: -25px;
+}
+
+form {
+    margin-top: 40px;    
+}
+
+.email{
+    width: 290px;
+    margin-left: 380px;
+    text-align: center;
+}
+
+.btn1{
+    margin-left: 500px;
+    border: none;
+}
+
+.text{
+    float: right;
+    margin-top: -490px;
+    margin-left: -800%;
+}
+
+.images{
+    margin-left: 200px;
+}
+
+.container-video{
+    margin-left: 250px;
+    margin-top: -160px;
+    display: flex;
+}
+
+.cuadro1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-left: 50px;
+}
+
+.cuadroa{
+    border: 1px solid black;
+    width: 300px;
+    height: 380px;
+}
+
+.cuadrob{
+    border: 1px solid black;
+    width: 300px;
+}
+
+.cuadroc{
+    border: 1px solid black;
+    width: 300px;
+}
+
+h5{
+    text-align: center;
+    color: black;
+    background-color: rgb(187, 207, 245);
+    height: 30px;
+    margin-top: 30px;
+}
+
+h4{
+    text-align: center;
+}
+
+.boton{
+    text-align: center;
+    margin-left: 110px;
+    border: none;
+    background-color: blue;
+    color: white;
+}

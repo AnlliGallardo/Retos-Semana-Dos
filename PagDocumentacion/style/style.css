@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2? family=Estilo+Script&display=swap');
+
+body{
+    font-family: 'Style Script', cursiva;
+}
+.container{
+    display: flex;
+    border-left: black;
+}
+
+h1{
+    font-family: 'Style Script', cursiva;
+    margin-top: 100px;
+    margin-left: 20px;
+}
+
+p{
+    float: right;
+    color: chartreuse;
+}
