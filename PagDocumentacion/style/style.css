@@ -2,19 +2,38 @@
 
 body{
     font-family: 'Style Script', cursiva;
-}
-.container{
-    display: flex;
-    border-left: black;
+    background-color: grey;
 }
 
-h1{
+header{
     font-family: 'Style Script', cursiva;
-    margin-top: 100px;
+    margin-top: -60px;
     margin-left: 20px;
+    position: fixed;
+    
 }
 
-p{
-    float: right;
-    color: chartreuse;
+.container{
+    font-weight: 600;
+    line-height: 1.5em;
+    margin-top: 10px;
+    display: inline;
+    position: fixed;
+    overflow-y: scroll auto;
+    
 }
+
+.container .seccion{
+    text-indent: 1.5em;
+}
+
+.text{
+    display: table;
+    width: auto;
+    text-align: justify;
+    margin-top: 90px;
+    margin-left: 243px;
+    overflow: wrap;
+}
+
+
