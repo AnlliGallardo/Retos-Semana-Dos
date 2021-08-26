@@ -39,10 +39,15 @@ form {
 }
 
 .text{
-    float:right;
     text-align: justify;
     margin-top: -490px;
-    margin-left: -900px;
+    margin-left: 300px;
+
+}
+
+.container{
+    width: 100px;
+    margin-left: -100px;
 }
 
 .images{
@@ -50,8 +55,8 @@ form {
 }
 
 .container-video{
-    margin-left: 230px;
-    margin-top: -160px;
+    margin-left: 200px;
+    margin-top: 50px;
     display: flex;
 }
 
